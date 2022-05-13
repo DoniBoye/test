@@ -30,3 +30,6 @@ git checkout [branch name] (switch to the branch)<br>
 git add .<br>
 git commit -m "edit title"<br>
 git push --set-upstream origin [github name]<br>
+<br>
+<h3>get master</h3><br>
+git pull<br>
