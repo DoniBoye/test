@@ -17,6 +17,6 @@ git remote add origin https://github.com/DoniBoye/test.git
 git init
 git branch -M main
 
-git add
+git add .
 git commit -m "first commit"
 git push -u origin main
